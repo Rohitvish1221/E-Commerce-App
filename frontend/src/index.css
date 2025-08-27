@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fade-down {
+  animation: fadeDown 1s ease-out;
+}
+
+@keyframes fadeDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px); /* move from top */
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

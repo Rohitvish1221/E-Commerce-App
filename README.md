@@ -1,2 +1,2 @@
-# E-Commerce-App
+# mern-ecommerce
 

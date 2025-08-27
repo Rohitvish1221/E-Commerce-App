@@ -7,7 +7,7 @@ This project includes features like authentication, product management, cart sys
 
 ## 🔗 Live Demo
 
-[View Live](https://nextbuy-bzi7.onrender.com/)  
+[Live App on Render ](https://nextbuy-bzi7.onrender.com/)  
 
 ---
 

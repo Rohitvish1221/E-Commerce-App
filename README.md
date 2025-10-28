@@ -5,6 +5,12 @@ This project includes features like authentication, product management, cart sys
 
 ---
 
+## 🔗 Live Demo
+
+[Live App on Render ](https://nextbuy-bzi7.onrender.com/)  
+
+---
+
 ## 🚀 Features
 
 - 🔐 **User Authentication** (Register/Login with JWT)
